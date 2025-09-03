@@ -1,7 +1,11 @@
 시각장애인 아동의 문맹률 감소를 위한 저비용 다국어 학습기기 - 설몽
 
 
-##  주요 기능
+사용 디바이스 
+Jetson orin nano 8gb super
+Arduino Due
+Arduino nano
+
 
 ### 사진 기능
 - 카메라를 통한 실시간 이미지 촬영
