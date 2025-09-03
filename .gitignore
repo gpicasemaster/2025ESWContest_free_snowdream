@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio/Video files (may be large)
+*.mp3
+*.mp4
+*.wav
+*.avi
+*.mov
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Project specific
+log_for_paper/
+braille_log/
+drawings/*.jpg
+drawings/*.png
+function/tts_cache/
+function/question_data/
+function/audio_prompts/
+
+# Text files (keeping .ino Arduino files)
+alternative_code_*.txt
+arduino_code_*.txt
+debug_*.txt
+
+# Conda environments
+.conda
